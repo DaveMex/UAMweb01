@@ -1,0 +1,6 @@
+/* Ejemplo de box model */
+article {
+    border-bottom: 10px #c80101 solid;
+    padding: 3rem 8rem;
+    margin: 2rem;
+}
